@@ -1,6 +1,6 @@
 #heading{
-    background-color: black;
-    color: rgb(255, 255, 255);
+    background-color: rgb(170, 5, 104);
+    color: rgb(246, 240, 240);
     text-align: center ;
 }
 .paragraf{
@@ -9,18 +9,17 @@
     text-align: center;
 }
 .secondtital{
-    background-color: rgb(146, 142, 142);
-    color: rgb(0, 0, 0);
+  
     text-align: left;
 }
 .description{
-    background-color: rgb(166, 0, 0);
-    color: rgb(255, 255, 255);
+    background-color: rgba(115, 198, 223, 0.566);
+    color: rgb(74, 69, 69);
     text-align: left;
     padding: 50px;
 }
 li{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(237, 48, 240, 0);
     color: rgb(0, 0, 0);
     text-align: left;
 }
@@ -29,8 +28,13 @@ ol{
     color: rgb(0, 0, 0);
     text-align: left;
 }
+body{
+    background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 
-
+  }
 .btn-login{
     background-color: blue;
     padding :10px;
